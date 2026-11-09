@@ -4,7 +4,7 @@
 
 [English](README.md) · [Als Tester melden](https://github.com/PaddyGameTV/VODWerft/issues/new?title=Beta-Test%20%E2%80%94%20Windows%20%2B%20Docker&body=Windows-Version%3A%0AGrafikkarte%20und%20VRAM%3A%0ADocker-Host%20und%20Betriebssystem%3A%0ASpiel%20oder%20Aufnahmeart%3A)
 
-> **Frühe Entwicklung · Tester gesucht.** Ein persönlicher Prototyp mit Windows und Unraid läuft bereits. Der weitergebbare Windows-Installer und das Docker-Paket sind in Arbeit.
+> **0.1.0 · Lokaler Prototyp · Tester gesucht.** Der Ablauf läuft auf einem Windows-PC mit Unraid-Server. Der weitergebbare Windows-Installer und das Docker-Paket sind in Arbeit.
 
 ## So funktioniert der Ablauf
 
@@ -17,6 +17,13 @@ flowchart LR
 ```
 
 Der Windows-PC bearbeitet das Material. Sobald die Übergabe abgeschlossen ist, kann der Server selbstständig weiterarbeiten. Der Gaming-PC kann dann aus.
+
+### Läuft bereits im Prototyp 0.1.0
+
+- Ordnerüberwachung und Status im Windows-Tray. Profile für Folgen und ganze Missionen.
+- YouTube-Uploads vom Server mit Thumbnails und geplantem Veröffentlichungstermin.
+- Optionale Bereinigung, sobald YouTube alle Folgen eines Auftrags bestätigt hat.
+- Discord-Statusmeldungen in einem Thread pro Aufnahme.
 
 | Baustein | Geplant für die erste Beta |
 | --- | --- |
