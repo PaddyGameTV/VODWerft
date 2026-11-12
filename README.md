@@ -59,4 +59,4 @@ The first test is simple: process a short recording, confirm the handoff in the 
 - **Claude (Anthropic)** · AI development assistance for implementation, maintenance and documentation
 - **Nilson89 (Nilson1489)** · Creator of [Nightcut](https://github.com/Nilson89/nightcut), the upstream editing engine
 
-VODWerft is an independent project built around Nightcut. Nightcut provides the local video analysis and editing. VODWerft adds setup, orchestration, status and server-side delivery. The upstream MIT license and copyright notice apply to Nightcut code.
+VODWerft is an independent project built around Nightcut. Nightcut provides the local video analysis and editing. VODWerft adds setup, orchestration, status and server-side delivery. VODWerft is released under the [MIT License](LICENSE). The upstream MIT license and copyright notice additionally apply to Nightcut code.

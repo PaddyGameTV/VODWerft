@@ -59,4 +59,4 @@ Der erste Test ist überschaubar. Verarbeite eine kurze Aufnahme, bestätige die
 - **Claude (Anthropic)** · KI-Entwicklungsassistenz für Umsetzung, Wartung und Dokumentation
 - **Nilson89 (Nilson1489)** · Entwickler von [Nightcut](https://github.com/Nilson89/nightcut), der Grundlage für Analyse und Schnitt
 
-VODWerft ist ein unabhängiges Projekt auf Basis von Nightcut. Nightcut übernimmt die lokale Videoanalyse und den Schnitt. VODWerft ergänzt Einrichtung, Ablaufsteuerung, Statusanzeige und Server-Upload. Für den Nightcut-Code gelten die ursprüngliche MIT-Lizenz und der Copyright-Hinweis.
+VODWerft ist ein unabhängiges Projekt auf Basis von Nightcut. Nightcut übernimmt die lokale Videoanalyse und den Schnitt. VODWerft ergänzt Einrichtung, Ablaufsteuerung, Statusanzeige und Server-Upload. VODWerft steht unter der [MIT-Lizenz](LICENSE). Für den Nightcut-Code gelten zusätzlich die ursprüngliche MIT-Lizenz und der Copyright-Hinweis.
