@@ -23,7 +23,6 @@ Der Windows-PC bearbeitet das Material. Sobald die Übergabe abgeschlossen ist, 
 - Ordnerüberwachung und Status im Windows-Tray. Profile für Folgen und ganze Missionen.
 - YouTube-Uploads vom Server mit Thumbnails und geplantem Veröffentlichungstermin.
 - Optionale Bereinigung, sobald YouTube alle Folgen eines Auftrags bestätigt hat.
-- Discord-Statusmeldungen in einem Thread pro Aufnahme.
 
 | Baustein | Geplant für die erste Beta |
 | --- | --- |

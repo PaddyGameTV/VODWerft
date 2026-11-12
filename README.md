@@ -23,7 +23,6 @@ The Windows machine does the media work. After the handoff finishes, the server 
 - Windows tray status and folder monitoring, with episode and full-mission profiles.
 - Server-side YouTube uploads with thumbnails and scheduled publishing.
 - Optional cleanup after every episode in a batch passes YouTube verification.
-- Discord status threads for each recording.
 
 | Component | First beta scope |
 | --- | --- |
