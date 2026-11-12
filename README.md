@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/vodwerft-logo.png" alt="VODWerft" width="128"></p>
+
 # VODWerft
 
 **Turn long OBS recordings into episodes and highlights. Cut on Windows, hand off to your own server, and let Docker handle the YouTube upload.**

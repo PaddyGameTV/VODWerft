@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/vodwerft-logo.png" alt="VODWerft" width="128"></p>
+
 # VODWerft
 
 **Aus langen OBS-Aufnahmen werden Folgen und Highlights. Windows schneidet, dein Docker-Server übernimmt den YouTube-Upload.**
